@@ -84,7 +84,6 @@ export default {
     }
   },
   beforeDestroy () {
-    console.log(1);
 
    this.clear.clear()
   },

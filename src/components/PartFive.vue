@@ -2,7 +2,7 @@
   <div :class="partFive">
     <h3 class="text-center text-top">工作经验</h3>
     <p>
-      <a href="javascript:void(0)">河北万图计算机科技有限公司</a>
+      <a href="javascript:void(0)">古德网络科技有限公司</a>
       <span class="text-small">| 2017/10 - 2019/12</span>
     </p>
     <p class="text-small">工作内容：<br>&emsp;本人主要负责公司外包项目的网页开发， 在工作中熟练使用JavaScript、Vue、HTML、CSS、jQuery，完成网页开发， 配合后台人员实现产品前端界面效果与功能。</p>
